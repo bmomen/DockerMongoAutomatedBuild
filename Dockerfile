@@ -24,3 +24,7 @@ EXPOSE 27017
 
 # Set usr/bin/mongod as the dockerized entry-point application
 ENTRYPOINT ["/usr/bin/mongod"]
+
+RUN docker run -p 27017:27017 --name mongodb -d babakmomen/dockermongoautomatedbuild
+
+RUN docker exec -it mongodb /bin/bash
