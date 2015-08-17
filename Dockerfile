@@ -6,7 +6,7 @@
 FROM       ubuntu:latest
 
 # Format: MAINTAINER Name <email@addr.ess>
-MAINTAINER bmomen <bmomen@addr.ess>
+MAINTAINER bmomen <babakmomen@mail.com>
 
 # Installation:
 # Import MongoDB public GPG key AND create a MongoDB list file
