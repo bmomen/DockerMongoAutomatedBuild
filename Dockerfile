@@ -1,5 +1,5 @@
 # Firefox over VNC
-#
+#####
 # VERSION               0.3
 
 FROM ubuntu
