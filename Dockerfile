@@ -1,6 +1,6 @@
 # Dockerizing MongoDB: Dockerfile for building MongoDB images
 # Based on ubuntu:latest, installs MongoDB following the instructions from:
-# http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
+# http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/ 
 
 # Format: FROM    repository[:version]
 FROM       ubuntu:latest
